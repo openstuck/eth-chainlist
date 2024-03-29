@@ -4445,6 +4445,19 @@
   "faucets": [],
   "infoURL": "https://decentrabone.com"
 }, {
+  "name": "TAPROOT Mainnet",
+  "chainId": 911,
+  "shortName": "TAPROOT-Mainnet",
+  "networkId": 911,
+  "nativeCurrency": {
+    "name": "TBTC",
+    "symbol": "TBTC",
+    "decimals": 18
+  },
+  "rpc": ["https://rpc.taprootchain.io"],
+  "faucets": [],
+  "infoURL": "https://taprootchain.io"
+}, {
   "name": "Rinia Testnet",
   "chainId": 917,
   "shortName": "tfire",
@@ -8930,6 +8943,19 @@
   "faucets": ["https://faucet.tritanium.network"],
   "infoURL": "https://tritanium.network"
 }, {
+  "name": "Egochain",
+  "chainId": 5439,
+  "shortName": "egax",
+  "networkId": 5439,
+  "nativeCurrency": {
+    "name": "EGAX",
+    "symbol": "EGAX",
+    "decimals": 18
+  },
+  "rpc": ["https://mainnet.egochain.org"],
+  "faucets": [],
+  "infoURL": "https://docs.egochain.org/"
+}, {
   "name": "VEX EVM TESTNET",
   "chainId": 5522,
   "shortName": "VEX",
@@ -11036,13 +11062,13 @@
   "faucets": ["https://faucet.sardisnetwork.com"],
   "infoURL": "https://mysardis.com"
 }, {
-  "name": "SanR Chain",
+  "name": "Santiment Intelligence Network",
   "chainId": 11888,
   "shortName": "SAN",
   "networkId": 11888,
   "nativeCurrency": {
-    "name": "nSAN",
-    "symbol": "nSAN",
+    "name": "SANR",
+    "symbol": "SANR",
     "decimals": 18
   },
   "rpc": ["https://sanrchain-node.santiment.net"],
@@ -12673,6 +12699,19 @@
   "rpc": ["https://rpc-02.frenscan.io"],
   "faucets": [],
   "infoURL": "https://frenchain.app"
+}, {
+  "name": "Quantum Network",
+  "chainId": 44445,
+  "shortName": "QTM",
+  "networkId": 44445,
+  "nativeCurrency": {
+    "name": "Quantum",
+    "symbol": "QTM",
+    "decimals": 18
+  },
+  "rpc": ["https://rpcqtm.avescoin.io"],
+  "faucets": [],
+  "infoURL": "https://avescoin.io/"
 }, {
   "name": "Celo Alfajores Testnet",
   "chainId": 44787,
@@ -15599,16 +15638,16 @@
   "faucets": ["https://testnet-faucet.helachain.com"],
   "infoURL": "https://helalabs.com"
 }, {
-  "name": "Galadriel Testnet",
+  "name": "Galadriel Devnet",
   "chainId": 696969,
-  "shortName": "galadriel-testnet",
+  "shortName": "galadriel-devnet",
   "networkId": 696969,
   "nativeCurrency": {
-    "name": "Galadriel Testnet token",
+    "name": "Galadriel Devnet token",
     "symbol": "GAL",
     "decimals": 18
   },
-  "rpc": ["https://testnet.galadriel.com"],
+  "rpc": ["https://devnet.galadriel.com"],
   "faucets": ["https://docs.galadriel.com/faucet"],
   "infoURL": "https://galadriel.com"
 }, {
@@ -16521,6 +16560,19 @@
   "rpc": ["https://pegorpc.com", "https://node1.pegorpc.com", "https://node2.pegorpc.com", "https://node3.pegorpc.com"],
   "faucets": [],
   "infoURL": "https://pego.network"
+}, {
+  "name": "DeBank Sepolia Testnet",
+  "chainId": 20240324,
+  "shortName": "dbkse",
+  "networkId": 20240324,
+  "nativeCurrency": {
+    "name": "DeBank USD",
+    "symbol": "USD",
+    "decimals": 18
+  },
+  "rpc": ["https://sepolia-rpc.testnet.debank.com"],
+  "faucets": [],
+  "infoURL": "https://debank.com"
 }, {
   "name": "Hokum Testnet",
   "chainId": 20482050,

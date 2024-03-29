@@ -7155,6 +7155,28 @@
   "networkId": 910,
   "slip44": 1
 }, {
+  "name": "TAPROOT Mainnet",
+  "title": "TAPROOT Mainnet",
+  "chain": "TAPROOT CHAIN",
+  "rpc": ["https://rpc.taprootchain.io"],
+  "faucets": [],
+  "nativeCurrency": {
+    "name": "TBTC",
+    "symbol": "TBTC",
+    "decimals": 18
+  },
+  "infoURL": "https://taprootchain.io",
+  "shortName": "TAPROOT-Mainnet",
+  "chainId": 911,
+  "networkId": 911,
+  "icon": "taproot",
+  "explorers": [{
+    "name": "TAPROOT Scan",
+    "url": "https://scan.taprootchain.io",
+    "icon": "taproot",
+    "standard": "EIP3091"
+  }]
+}, {
   "name": "Rinia Testnet",
   "chain": "FIRE",
   "icon": "rinia",
@@ -14298,6 +14320,25 @@
     "standard": "none"
   }]
 }, {
+  "name": "Egochain",
+  "chainId": 5439,
+  "shortName": "egax",
+  "chain": "EGAX",
+  "networkId": 5439,
+  "nativeCurrency": {
+    "name": "EGAX",
+    "symbol": "EGAX",
+    "decimals": 18
+  },
+  "rpc": ["https://mainnet.egochain.org"],
+  "faucets": [],
+  "infoURL": "https://docs.egochain.org/",
+  "explorers": [{
+    "name": "egoscan",
+    "url": "https://egoscan.io",
+    "standard": "EIP3091"
+  }]
+}, {
   "name": "VEX EVM TESTNET",
   "chain": "vex",
   "icon": "vex",
@@ -17633,13 +17674,13 @@
     "standard": "EIP3091"
   }]
 }, {
-  "name": "SanR Chain",
-  "chain": "SanRChain",
+  "name": "Santiment Intelligence Network",
+  "chain": "Santiment Intelligence Network",
   "rpc": ["https://sanrchain-node.santiment.net"],
   "faucets": [],
   "nativeCurrency": {
-    "name": "nSAN",
-    "symbol": "nSAN",
+    "name": "SANR",
+    "symbol": "SANR",
     "decimals": 18
   },
   "infoURL": "https://sanr.app",
@@ -17655,8 +17696,8 @@
     }]
   },
   "explorers": [{
-    "name": "SanR Chain Explorer",
-    "url": "https://sanrchain-explorer.santiment.net",
+    "name": "Santiment Intelligence Explorer",
+    "url": "https://app-explorer-pos.sanr.app",
     "standard": "none"
   }]
 }, {
@@ -20325,6 +20366,27 @@
     "name": "blockscout",
     "url": "https://frenscan.io",
     "icon": "fren",
+    "standard": "EIP3091"
+  }]
+}, {
+  "name": "Quantum Network",
+  "chain": "Quantum",
+  "rpc": ["https://rpcqtm.avescoin.io"],
+  "faucets": [],
+  "nativeCurrency": {
+    "name": "Quantum",
+    "symbol": "QTM",
+    "decimals": 18
+  },
+  "infoURL": "https://avescoin.io/",
+  "shortName": "QTM",
+  "chainId": 44445,
+  "networkId": 44445,
+  "icon": "quantum",
+  "explorers": [{
+    "name": "Quantum Explorer",
+    "url": "https://qtm.avescoin.io",
+    "icon": "quantum",
     "standard": "EIP3091"
   }]
 }, {
@@ -25135,17 +25197,17 @@
     "standard": "EIP3091"
   }]
 }, {
-  "name": "Galadriel Testnet",
+  "name": "Galadriel Devnet",
   "chain": "Galadriel",
-  "rpc": ["https://testnet.galadriel.com"],
+  "rpc": ["https://devnet.galadriel.com"],
   "faucets": ["https://docs.galadriel.com/faucet"],
   "nativeCurrency": {
-    "name": "Galadriel Testnet token",
+    "name": "Galadriel Devnet token",
     "symbol": "GAL",
     "decimals": 18
   },
   "infoURL": "https://galadriel.com",
-  "shortName": "galadriel-testnet",
+  "shortName": "galadriel-devnet",
   "chainId": 696969,
   "networkId": 696969,
   "explorers": [{
@@ -26630,6 +26692,27 @@
   "explorers": [{
     "name": "Pego Network Explorer",
     "url": "https://scan.pego.network",
+    "standard": "EIP3091"
+  }]
+}, {
+  "name": "DeBank Sepolia Testnet",
+  "chain": "DeBank",
+  "rpc": ["https://sepolia-rpc.testnet.debank.com"],
+  "faucets": [],
+  "icon": "debank",
+  "nativeCurrency": {
+    "name": "DeBank USD",
+    "symbol": "USD",
+    "decimals": 18
+  },
+  "infoURL": "https://debank.com",
+  "shortName": "dbkse",
+  "chainId": 20240324,
+  "networkId": 20240324,
+  "slip44": 1,
+  "explorers": [{
+    "name": "DeBank Chain Explorer",
+    "url": "https://sepolia-explorer.testnet.debank.com",
     "standard": "EIP3091"
   }]
 }, {
