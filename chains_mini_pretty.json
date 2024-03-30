@@ -9151,6 +9151,19 @@
   "faucets": [],
   "infoURL": "https://www.wegochain.io"
 }, {
+  "name": "BounceBit Testnet",
+  "chainId": 6000,
+  "shortName": "bouncebit-testnet",
+  "networkId": 6000,
+  "nativeCurrency": {
+    "name": "BounceBit",
+    "symbol": "BB",
+    "decimals": 18
+  },
+  "rpc": ["https://fullnode-testnet.bouncebitapi.com/"],
+  "faucets": [],
+  "infoURL": "https://bouncebit.io"
+}, {
   "name": "Tres Testnet",
   "chainId": 6065,
   "shortName": "TRESTEST",
@@ -9683,6 +9696,19 @@
   "rpc": ["https://validator-mainnet.orenium.org", "https://rpc-oracle-mainnet.orenium.org", "https://portalmainnet.orenium.org"],
   "faucets": [],
   "infoURL": "https://orenium.org"
+}, {
+  "name": "OpenEX LONG Testnet",
+  "chainId": 7798,
+  "shortName": "oex",
+  "networkId": 7798,
+  "nativeCurrency": {
+    "name": "USDT Testnet",
+    "symbol": "USDT",
+    "decimals": 18
+  },
+  "rpc": ["https://long.rpc.openex.network/"],
+  "faucets": ["https://long.hub.openex.network/faucet"],
+  "infoURL": "https://openex.network"
 }, {
   "name": "MaalChain Testnet",
   "chainId": 7860,
@@ -13440,6 +13466,19 @@
   "rpc": ["https://proxy103.thinkiumrpc.net/"],
   "faucets": [],
   "infoURL": "https://thinkium.net/"
+}, {
+  "name": "Proof of Play - Apex",
+  "chainId": 70700,
+  "shortName": "pop-apex",
+  "networkId": 70700,
+  "nativeCurrency": {
+    "name": "Ether",
+    "symbol": "ETH",
+    "decimals": 18
+  },
+  "rpc": ["https://rpc.apex.proofofplay.com"],
+  "faucets": [],
+  "infoURL": "https://proofofplay.com"
 }, {
   "name": "GuapcoinX",
   "chainId": 71111,
