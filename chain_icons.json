@@ -295,6 +295,14 @@
     "format": "svg"
   }]
 }, {
+  "name": "rss3-testnet",
+  "icons": [{
+    "url": "ipfs://QmTE6hnMTQaGU8Fm7nQbeTqQ5Ha3kyLKHR6QTd59prP2mC",
+    "width": 200,
+    "height": 200,
+    "format": "svg"
+  }]
+}, {
   "name": "kaiba",
   "icons": [{
     "url": "ipfs://bafybeihbsw3ky7yf6llpww6fabo4dicotcgwjpefscoxrppstjx25dvtea",
@@ -341,6 +349,14 @@
     "width": 1500,
     "height": 1500,
     "format": "png"
+  }]
+}, {
+  "name": "rss3",
+  "icons": [{
+    "url": "ipfs://QmZFWYnufi6G2Z54oJ25sx2yf2Skx5tseJHJJa6Hc1G34t",
+    "width": 200,
+    "height": 200,
+    "format": "svg"
   }]
 }, {
   "name": "c4ei",
@@ -1647,6 +1663,14 @@
     "format": "png"
   }]
 }, {
+  "name": "evolveIcon",
+  "icons": [{
+    "url": "ipfs://QmVxtpYYzc5214CB7BgsMC4mRNRHCD8fpbNMzZguBWyRwa",
+    "width": 600,
+    "height": 600,
+    "format": "png"
+  }]
+}, {
   "name": "drac",
   "icons": [{
     "url": "ipfs://QmXbsQe7QsVFZJZdBmbZVvS6LgX9ZFoaTMBs9MiQXUzJTw",
@@ -2052,6 +2076,14 @@
     "url": "ipfs://QmeJerrsURFNt2LL7DE7TxeunjrQXiuezdfHyqmsbwX3MZ",
     "width": 128,
     "height": 128,
+    "format": "png"
+  }]
+}, {
+  "name": "shidoChain",
+  "icons": [{
+    "url": "ipfs://bafkreiatrf5pp7ywvrwvsv4otrex73u6v6bvhorqkxiop2hy2i572zjrba",
+    "width": 1080,
+    "height": 1080,
     "format": "png"
   }]
 }, {
@@ -3279,6 +3311,14 @@
     "format": "png"
   }]
 }, {
+  "name": "bora",
+  "icons": [{
+    "url": "ipfs://QmccGWJcCzQh3rP6ZMdRyTc7JjtusKnXkoUtGUANQgjNqR",
+    "width": 48,
+    "height": 48,
+    "format": "svg"
+  }]
+}, {
   "name": "meld",
   "icons": [{
     "url": "ipfs://QmRhB4AbjDrhvwfSAQi2JvKirFiDWxzJvKEvG8S8AdDdED",
@@ -4396,6 +4436,14 @@
     "url": "ipfs://QmUYKpVmZL4aS3TEZLG5wbrRJ6exxLiwm1rejfGYYNicfb",
     "width": 155,
     "height": 155,
+    "format": "png"
+  }]
+}, {
+  "name": "optopia",
+  "icons": [{
+    "url": "ipfs://bafkreid3xv3zkuo2cygwt7vwm5c2aqjbyhy5qxn7xkc66ajhu2mjh2ybki",
+    "width": 1000,
+    "height": 1000,
     "format": "png"
   }]
 }, {
